@@ -4,12 +4,4 @@ Sai Ram
 Kalu Sidh Baba
 Mani Mai Mata
 Fetch Demo
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 Jai Hanuman
-=======
-Hello
->>>>>>> Stashed changes
-=======
-Hello
->>>>>>> Stashed changes
